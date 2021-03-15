@@ -1,6 +1,6 @@
 ## code documentation
 
-The code consists of two parts. `htstoolkit.py` contains the main functionality with classes for data storage, statistics and plotting. `htsanalysis.ipynb` is a Jupyter notebook with the main analysis and some documentation.
+The code consists of two parts. `htstoolkit.py` contains the main functionality with classes for data storage, statistics and plotting. `htsanalysis.ipynb` is a Jupyter notebook with the main HTS analysis and some documentation.
 
 | File | Description |
 |------|-------------|
@@ -9,6 +9,6 @@ The code consists of two parts. `htstoolkit.py` contains the main functionality 
 | htsanalysis.html | HTML version of Jupyter notebook |
 | htsanalysis.pdf | PDF version of Jupyter notebook |
 | Sample_T1_data.xlsx | HTS dataset |
-| NMalo2006.pdf | paper  |
+| NMalo2006.pdf | paper discussing HTS best practice |
 
 
